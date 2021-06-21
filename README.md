@@ -31,3 +31,5 @@ python run.py -h
 ```
 
 ## Reference
+1. [https://github.com/openai/CLIP](https://github.com/openai/CLIP)
+2. [https://github.com/kentaroy47/vision-transformers-cifar10](https://github.com/kentaroy47/vision-transformers-cifar10)
