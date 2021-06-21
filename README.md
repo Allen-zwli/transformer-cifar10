@@ -2,7 +2,7 @@
 This is a experimental comparison among resnet, vision transformer and visual transformer on the cifar-10 dataset.
 
 ## Dataset
-When excuting `run.py`， data will be download from ![CIFAR_dataset](http://www.cs.toronto.edu/~kriz/cifar.html) automatically to the root directory. 
+When excuting `run.py`， data will be download from [CIFAR_dataset](http://www.cs.toronto.edu/~kriz/cifar.html) automatically to the root directory. 
 
 ## Project Structure
 
@@ -29,3 +29,5 @@ You can do this for more detailed helps:
 ```
 python run.py -h
 ```
+
+## Reference
