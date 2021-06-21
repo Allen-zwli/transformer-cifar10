@@ -23,6 +23,8 @@ The folder `weights` stores the best weights for each model.
 For model training, you just need to run `run.py` by 
 ```
 python run.py --model ResNet --epochs 100 --name ResNet_cifar
+              --model ViT                 --name ViT_H396_L6_m6 --hidden-size 396 --layers 6 --heads 6 --multihead
+              --model VisT                --name VisT_H608_N16_m1 --hidden-size 608 --n_tokens 16
 ```
 
 You can do this for more detailed helps:
